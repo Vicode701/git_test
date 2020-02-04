@@ -1,0 +1,1 @@
+"This is Vicode's first official git project"
